@@ -31,4 +31,4 @@ El objetivo es aplicar los conocimientos de **Git y GitHub** para versionar un p
 ## ▶️ Ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone git@github.com:tuusuario/github-desafio.git
+   git clone git@github.com:nicomunozjs/desafio-05-git-github
